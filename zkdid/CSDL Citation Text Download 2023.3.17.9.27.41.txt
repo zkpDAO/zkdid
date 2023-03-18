@@ -1,0 +1,6 @@
+Y. Fukami, T. Shimizu and H. Matsushima,  "The Impact of Decentralized Identity Architecture on Data Exchange," in 2021 IEEE International Conference on Big Data (Big Data), Orlando, FL, USA, 2021 pp. 3461-3465.
+doi: 10.1109/BigData52589.2021.9671674
+keywords: {conferences;government;standardization;big data;blockchains}
+Abstract: Digital Identity is indispensable for the promotion of data exchange and the diffusion of digital government. The development and standardization of Decentralized Identifiers (DIDs) based on blockchain technology is underway. Through a comparison between existing centralized IDs and decentralized IDs, we examine the impact of decentralized identity architecture on data exchange.
+url: https://doi.ieeecomputersociety.org/10.1109/BigData52589.2021.9671674
+
